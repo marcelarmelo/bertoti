@@ -10,15 +10,24 @@ Loja
 Requisitos funcionais:
 
 O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
+
 O funcionário pode buscar o preço do produto passando para o sistema código.
+
 O funcionário pode buscar o preço e disponibilidade do produto passando para o sistema o código, tamanho e cor.
+
 O funcionário precisa dasr baixa no produto apos a compra do mesmo.
+
 O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
+
 
 Requisitos não funcionais:
 
 Executar o sistema em plataforma web.
+
 O sistema deverá estar em acordo com a LGPD.
+
 O sistema deverá processar até 100 requisições em uma hora.
-O sistema deverá ser desenvolvido em linguagem java.
+
+O sistema deverá ser desenvolvido em linguagem Java.
+
 A interface deve ser simples e intuitiva.
