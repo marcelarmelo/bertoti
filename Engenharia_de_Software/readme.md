@@ -15,7 +15,7 @@ O funcionário pode buscar o preço do produto passando para o sistema código.
 
 O funcionário pode buscar o preço e disponibilidade do produto passando para o sistema o código, tamanho e cor.
 
-O funcionário precisa dasr baixa no produto apos a compra do mesmo.
+O funcionário precisa dar baixa no produto após a compra do mesmo.
 
 O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
 
