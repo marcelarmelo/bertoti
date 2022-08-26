@@ -31,3 +31,47 @@ O sistema deverá processar até 100 requisições em uma hora.
 O sistema deverá ser desenvolvido em linguagem Java.
 
 A interface deve ser simples e intuitiva.
+
+Diagrama de classes UML
+
+View -> Controller -> Model
+ 			Funcionario
+				+cadastrarProduto()
+				+buscarProdutoPorPreco()
+				+darBaixaProduto(String codigoProduto)
+
+			Produtos
+				
+				categoria: String
+				genero: List<genero>
+				tamanho: List<tamanho>
+				cor: List<cor>
+				codigoProduto: String
+				preco: double
+				+getCategoria():String
+				+setCategoria(String novaCategoria)
+				+getGenero(): List<genero>
+				+setGenero(List<genero>)
+				+getTamanho(): List<tamanho>
+				+setTamanho(List<tamanho>)
+				+getCor(): List<cor>
+				+setCor(List<cor>)
+				+getCodigoProduto(): String
+				+setCodigoProduto(String novoCodigoProduto)
+				+getPreco(): double
+				+setPreco(double novo Preco)
+
+			Cliente
+				+cadastrarCliente()
+				dataCompra: Date
+				nome: String
+				cpfCnpj: String
+				telefone: String
+				+getDataCompra():Date
+				+setDataCompra(Date dataCompra)
+				+getNome(): String
+				+setNome(String nome)
+				+getCpfCnpj(): String
+				+setCpfCnpj(String cpfCnpj)
+				+getTelefone():String
+				+setTelefone(String telefone)
