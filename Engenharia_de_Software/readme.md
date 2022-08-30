@@ -5,11 +5,11 @@ Titus Winters, Software Engineering at Google
 É possivel concluir que as duas profissões são relacionadas, porém são diferentes em certos aspectos. Os engenheiros devem estar atentos a tempo, alterações, escala e eficiência, logo, resolvem problemas em uma escala maior que os desenvolvedores e os desenvolvedores desempenham um papel importante para que os engenheiros possam concluir o projeto.
 
 
-<b>20220819 | Atividade de projeto<b>
+""20220819 | Atividade de projeto""
 
-Desenvolvimento: Loja
+""Desenvolvimento: Loja""
 
-<b>Requisitos funcionais:<b>
+""Requisitos funcionais:""
 
 - [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
@@ -22,7 +22,7 @@ Desenvolvimento: Loja
 - [x] O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
 
 
-<b>Requisitos não funcionais:<b>
+""Requisitos não funcionais:""
 
 - [x] Executar o sistema em plataforma web.
 
@@ -34,5 +34,5 @@ Desenvolvimento: Loja
 
 - [x] A interface deve ser simples e intuitiva.
 
-<b>Diagrama de classes UML<b>
+""Diagrama de classes UML""
 
