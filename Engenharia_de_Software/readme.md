@@ -5,75 +5,34 @@ Titus Winters, Software Engineering at Google
 É possivel concluir que as duas profissões são relacionadas, porém são diferentes em certos aspectos. Os engenheiros devem estar atentos a tempo, alterações, escala e eficiência, logo, resolvem problemas em uma escala maior que os desenvolvedores e os desenvolvedores desempenham um papel importante para que os engenheiros possam concluir o projeto.
 
 
-<b>20220819 | Atividade de projeto
+<b>20220819 | Atividade de projeto<b>
 
 Desenvolvimento: Loja
 
-Requisitos funcionais:
+<b>Requisitos funcionais:<b>
 
 - [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
-O funcionário pode buscar o preço do produto passando para o sistema código.
+- [x] O funcionário pode buscar o preço do produto passando para o sistema código.
 
-O funcionário pode buscar o preço e disponibilidade do produto passando para o sistema o código, tamanho e cor.
+- [x] O funcionário pode buscar o preço e disponibilidade do produto passando para o sistema o código, tamanho e cor.
 
-O funcionário precisa dar baixa no produto após a compra do mesmo.
+- [x] O funcionário precisa dar baixa no produto após a compra do mesmo.
 
-O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
+- [x] O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
 
 
-Requisitos não funcionais:
+<b>Requisitos não funcionais:<b>
 
-Executar o sistema em plataforma web.
+- [x] Executar o sistema em plataforma web.
 
-O sistema deverá estar em acordo com a LGPD.
+- [x] O sistema deverá estar em acordo com a LGPD.
 
-O sistema deverá processar até 100 requisições em uma hora.
+- [x] O sistema deverá processar até 100 requisições em uma hora.
 
-O sistema deverá ser desenvolvido em linguagem Java.
+- [x] O sistema deverá ser desenvolvido em linguagem Java.
 
-A interface deve ser simples e intuitiva.
+- [x] A interface deve ser simples e intuitiva.
 
-Diagrama de classes UML
+<b>Diagrama de classes UML<b>
 
-View -> Controller -> Model
- 			Funcionario
-				+cadastrarProduto()
-				+buscarProdutoPorPreco()
-				+darBaixaProduto(String codigoProduto)
-
-			Produtos
-				
-				categoria: String
-				genero: List<genero>
-				tamanho: List<tamanho>
-				cor: List<cor>
-				codigoProduto: String
-				preco: double
-				+getCategoria():String
-				+setCategoria(String novaCategoria)
-				+getGenero(): List<genero>
-				+setGenero(List<genero>)
-				+getTamanho(): List<tamanho>
-				+setTamanho(List<tamanho>)
-				+getCor(): List<cor>
-				+setCor(List<cor>)
-				+getCodigoProduto(): String
-				+setCodigoProduto(String novoCodigoProduto)
-				+getPreco(): double
-				+setPreco(double novo Preco)
-
-			Cliente
-				+cadastrarCliente()
-				dataCompra: Date
-				nome: String
-				cpfCnpj: String
-				telefone: String
-				+getDataCompra():Date
-				+setDataCompra(Date dataCompra)
-				+getNome(): String
-				+setNome(String nome)
-				+getCpfCnpj(): String
-				+setCpfCnpj(String cpfCnpj)
-				+getTelefone():String
-				+setTelefone(String telefone)
