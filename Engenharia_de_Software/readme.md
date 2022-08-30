@@ -9,7 +9,7 @@ Titus Winters, Software Engineering at Google
 
 Desenvolvimento: Loja
 
-<h3>Requisitos funcionais:<h3>
+Requisitos funcionais:
 
 O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
