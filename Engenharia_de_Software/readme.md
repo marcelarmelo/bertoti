@@ -5,13 +5,13 @@ Titus Winters, Software Engineering at Google
 É possivel concluir que as duas profissões são relacionadas, porém são diferentes em certos aspectos. Os engenheiros devem estar atentos a tempo, alterações, escala e eficiência, logo, resolvem problemas em uma escala maior que os desenvolvedores e os desenvolvedores desempenham um papel importante para que os engenheiros possam concluir o projeto.
 
 
-<b><h2>20220819 | Atividade de projeto<h2><b>
+<b><h2>20220819 | Atividade de projeto
 
 Desenvolvimento: Loja
 
 Requisitos funcionais:
 
-O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
+[x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
 O funcionário pode buscar o preço do produto passando para o sistema código.
 
