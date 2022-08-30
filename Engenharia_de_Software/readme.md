@@ -5,11 +5,11 @@ Titus Winters, Software Engineering at Google
 É possivel concluir que as duas profissões são relacionadas, porém são diferentes em certos aspectos. Os engenheiros devem estar atentos a tempo, alterações, escala e eficiência, logo, resolvem problemas em uma escala maior que os desenvolvedores e os desenvolvedores desempenham um papel importante para que os engenheiros possam concluir o projeto.
 
 
-""20220819 | Atividade de projeto""
+**20220819 | Atividade de projeto**
 
-""Desenvolvimento: Loja""
+**Desenvolvimento: Loja**
 
-""Requisitos funcionais:""
+**Requisitos funcionais:**
 
 - [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
@@ -22,7 +22,7 @@ Titus Winters, Software Engineering at Google
 - [x] O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
 
 
-""Requisitos não funcionais:""
+**Requisitos não funcionais:**
 
 - [x] Executar o sistema em plataforma web.
 
@@ -34,5 +34,10 @@ Titus Winters, Software Engineering at Google
 
 - [x] A interface deve ser simples e intuitiva.
 
-""Diagrama de classes UML""
+**Diagrama de classes UML**
 
+![My First Board](https://user-images.githubusercontent.com/102201672/187560340-e540d2a3-f674-46f9-9d21-7d4dc1d0e735.jpg)
+
+**Casos de Uso**
+
+**Diagrama de sequencia**
