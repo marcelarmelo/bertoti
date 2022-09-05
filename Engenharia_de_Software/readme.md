@@ -36,8 +36,14 @@ Titus Winters, Software Engineering at Google
 
 **Diagrama de classes UML**
 
-![My First Board](https://user-images.githubusercontent.com/102201672/187560340-e540d2a3-f674-46f9-9d21-7d4dc1d0e735.jpg)
+![My First Board (1)](https://user-images.githubusercontent.com/102201672/188518831-6b8daaab-6345-46e6-92fa-31e0049c2ccd.jpg)
 
 **Casos de Uso**
 
+![My First Board (2)](https://user-images.githubusercontent.com/102201672/188518841-c76f2207-2d12-484f-bde5-d00c04dcd262.jpg)
+
 **Diagrama de sequencia**
+
+![My First Board (3)](https://user-images.githubusercontent.com/102201672/188518857-f894493f-eb8b-447f-b048-ce283c2386ff.jpg)
+
+
