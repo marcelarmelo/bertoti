@@ -13,18 +13,14 @@ Titus Winters, Software Engineering at Google
 
 - [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
 
-- [x] O funcionário pode buscar o preço do produto passando para o sistema código.
+- [x] O funcionário pode buscar um conjunto de produtos passando para o sistema sua categoria, gênero, tamanho, cor, código e preço.
 
-- [x] O funcionário pode buscar o preço e disponibilidade do produto passando para o sistema o código, tamanho e cor.
-
-- [x] O funcionário precisa dar baixa no produto após a compra do mesmo.
-
-- [x] O funcionario deve cadastrar os dados do cliente inserindo data da compra, nome, cpf/cnpj, telefone e forma de pagamento.
+- [x] O funcionario pode buscar 1 produto passando para o sistema seu código.
 
 
 **Requisitos não funcionais:**
 
-- [x] Executar o sistema em plataforma web.
+- [x] Executar o sistema em plataforma Desktop.
 
 - [x] O sistema deverá estar em acordo com a LGPD.
 
