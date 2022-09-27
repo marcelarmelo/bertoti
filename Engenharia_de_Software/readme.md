@@ -11,9 +11,9 @@ Titus Winters, Software Engineering at Google
 
 **Requisitos funcionais:**
 
-- [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor, código e preço.
+- [x] O funcionário da loja pode cadastrar os produtos inserindo categoria, gênero, tamanho, cor e código.
 
-- [x] O funcionário pode buscar um conjunto de produtos passando para o sistema sua categoria, gênero, tamanho, cor, código e preço.
+- [x] O funcionário pode buscar um conjunto de produtos passando para o sistema sua categoria, gênero, tamanho, cor e código.
 
 - [x] O funcionario pode buscar 1 produto passando para o sistema seu código.
 
@@ -24,7 +24,7 @@ Titus Winters, Software Engineering at Google
 
 - [x] O sistema deverá estar em acordo com a LGPD.
 
-- [x] O sistema deverá processar até 100 requisições em uma hora.
+- [x] O sistema deverá processar até 50 requisições em uma hora.
 
 - [x] O sistema deverá ser desenvolvido em linguagem Java.
 
@@ -32,14 +32,17 @@ Titus Winters, Software Engineering at Google
 
 **Diagrama de classes UML**
 
-![My First Board (1)](https://user-images.githubusercontent.com/102201672/188518831-6b8daaab-6345-46e6-92fa-31e0049c2ccd.jpg)
+![Diagrama_UML](https://user-images.githubusercontent.com/102201672/192649491-75b5ccab-535b-4b36-b4f2-49cad56b7150.jpg)
+
 
 **Casos de Uso**
 
-![My First Board (2)](https://user-images.githubusercontent.com/102201672/188518841-c76f2207-2d12-484f-bde5-d00c04dcd262.jpg)
+![Casos_de_uso](https://user-images.githubusercontent.com/102201672/192649458-65cda443-a270-4fd0-b3e4-a87f13b6ccaa.jpg)
+
 
 **Diagrama de sequencia**
 
-![My First Board (3)](https://user-images.githubusercontent.com/102201672/188518857-f894493f-eb8b-447f-b048-ce283c2386ff.jpg)
+![Sequencia](https://user-images.githubusercontent.com/102201672/192649447-f57bc2b4-c191-4e6a-a6ba-d4549f665713.jpg)
+
 
 
