@@ -9,7 +9,7 @@ public class Loja {
 		produtos.add(produto);
 	}
 	
-	public List<Produto> buscarprodutoPorEspecificacao(Especificacao espec){
+	public List<Produto> buscarProdutoPorEspecificacao(Especificacao espec){
 		List<Produto> produtosEncontrados = new LinkedList<Produto>();
 		for(Produto produto:produtos) {
 			if(produto.getEspec().comparar(espec)) produtosEncontrados.add(produto);
@@ -26,6 +26,11 @@ public class Loja {
 			} 
 		}
 		return null;
+	}
+	
+	//Método para apoiar nos testes
+	public List<Produto> getprodutod(){
+		return this.produtos;
 	}
 }
 
