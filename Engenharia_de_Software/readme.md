@@ -32,7 +32,7 @@ Titus Winters, Software Engineering at Google
 
 **Diagrama de classes UML**
 
-![Diagrama_UML](https://user-images.githubusercontent.com/102201672/192649491-75b5ccab-535b-4b36-b4f2-49cad56b7150.jpg)
+![UML](https://user-images.githubusercontent.com/102201672/193464904-0ed5651b-d7db-49d3-b010-826ba0ddf023.jpg)
 
 
 **Casos de Uso**
@@ -40,9 +40,10 @@ Titus Winters, Software Engineering at Google
 ![Casos_de_uso](https://user-images.githubusercontent.com/102201672/192649458-65cda443-a270-4fd0-b3e4-a87f13b6ccaa.jpg)
 
 
-**Diagrama de sequencia**
+**Diagrama de sequência**
 
-![Sequencia](https://user-images.githubusercontent.com/102201672/192649447-f57bc2b4-c191-4e6a-a6ba-d4549f665713.jpg)
+![Diagrama_sequencia](https://user-images.githubusercontent.com/102201672/193464896-dc151b05-e757-4a3b-8b95-f8910eeb58bd.jpg)
+
 
 
 
