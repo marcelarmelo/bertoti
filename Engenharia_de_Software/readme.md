@@ -35,7 +35,7 @@ Titus Winters, Software Engineering at Google
 
 **Casos de Uso**
 
-![Casos_de_uso](https://user-images.githubusercontent.com/102201672/192649458-65cda443-a270-4fd0-b3e4-a87f13b6ccaa.jpg)
+![Sem título](https://user-images.githubusercontent.com/102201672/204061744-8156df5b-aa93-4c03-a058-73e27c93ed60.png)
 
 
 **Diagrama de sequência**
