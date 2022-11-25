@@ -24,8 +24,6 @@ Titus Winters, Software Engineering at Google
 
 - [x] O sistema deverá estar em acordo com a LGPD.
 
-- [x] O sistema deverá processar até 50 requisições em uma hora.
-
 - [x] O sistema deverá ser desenvolvido em linguagem Java.
 
 - [x] A interface deve ser simples e intuitiva.
